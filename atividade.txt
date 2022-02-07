@@ -9,6 +9,6 @@ Atividade para casa.
 
 04-Utilizando o github faça o commit do arquivo das alterações.
 
-05-Agora faça o push orign;
+05-Agora faça o push origin;
 
 06-Acesse o repositório remoto e visualize o arquivo em casa casa.txt
