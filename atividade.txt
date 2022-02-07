@@ -1,0 +1,14 @@
+Atividade para casa.
+
+01-Clonar o repositório lógica de programação para a máquina local.
+
+02-Criar um arquivo repositório local com nome casa.txt
+
+03-No arquivo casa.txt insira a seguinte informação:
+"Criei este arquivo em casa e farei o commi de suas alterações e em seguida o push para o repositório remoto."
+
+04-Utilizando o github faça o commit do arquivo das alterações.
+
+05-Agora faça o push orign;
+
+06-Acesse o repositório remoto e visualize o arquivo em casa casa.txt
